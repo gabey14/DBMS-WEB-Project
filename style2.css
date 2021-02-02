@@ -1,0 +1,12 @@
+body {
+  background-image: url(checkerboard-cross.png);
+  color: crimson;
+}
+.head{
+  text-align: center;
+  color: darkslateblue;
+}
+lh,li{
+font-size: large;
+color: darkslateblue;
+}
